@@ -1,15 +1,14 @@
-body {
-    background-color: #ffd093;
-}
+body {background-color: powderblue;}
+h1{color:blue}
+h2 {color: black}
+p {color: darkgreen}
 
 header h1 {
 display: inline-block;
 font-size 48px;
 }
 
-
 header h2 {
     display: inline-block;
     font-size: 40px;
-}
-
+    }
