@@ -5,10 +5,13 @@ p {color: darkgreen}
 
 header h1 {
 display: inline-block;
-font-size 48px;
+font-size: 48px;
 }
 
 header h2 {
     display: inline-block;
     font-size: 40px;
     }
+
+    .footer {display: inline-block;
+        font-size: 11.25px;}
