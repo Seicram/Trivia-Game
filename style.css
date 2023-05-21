@@ -1,17 +1,53 @@
-body {background-color: powderblue;}
-h1{color:blue}
-h2 {color: black}
-p {color: darkgreen}
-
-header h1 {
-display: inline-block;
-font-size: 48px;
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
 }
 
-header h2 {
-    display: inline-block;
-    font-size: 40px;
-    }
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
-    .footer {display: inline-block;
-        font-size: 11.25px;}
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+#trivia-container {
+  margin-top: 20px;
+}
+
+.question {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.answers {
+  margin-bottom: 20px;
+}
+
+.answers li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.answers li input[type="radio"] {
+  margin-right: 10px;
+}
+
+#next-btn,
+#submit-btn,
+#new-game-btn {
+  display: block;
+  margin: 0 auto;
+}
+
+.hidden {
+  display: none;
+}

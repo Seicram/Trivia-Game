@@ -1,36 +1,32 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html>
 
 <head>
-    <style>
-        h1 {
-            text-align: center;
-        }
-        h2 {text-align: left;}
-        ul {line-height: 45px;font-size: x-large;color: brown;}
-
-    </style>
-<meta charset="UTF-8" />
-<link rel="stylesheet" href="./style.css">
-
+  <meta charset="UTF-8">
+  <title>Trivia Game</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
+
 <body>
-    <div style = >
-    <h1>Project 1</h1>
-    <h2>Tasks</h2>
-    <p> 
-        <ul>
-            <li><s>Display an HTML page</s></li>
-            <li>It should listen for at least one event and receive some user input.</li><div>
-            <li>It should get data from an API.</li>
-            <li><s>It should update the view in the browser.</s></li>
-            <li>It should be styled using your own CSS, and optionally with any CSS framework.</li>
-            <li><s>This should be tracked in GIT and deployed to Pages.</s></li>
-        </ul>
-    </p>
-</div>
-<div class="footer">
-    <h2>Due date is two weeks, Monday, March 27, 2023 </h2>
- </div>
+  <div class="container">
+    <h1>Trivia Game</h1>
+    <div id="trivia-container">
+      <div id="welcome-container">
+        <p id="welcome-message">Welcome to Trivia!</p>
+        <button id="start-game-btn">Start Game</button>
+      </div>
+      <div id="question-container" class="hidden">
+        <p id="question" class="question"></p>
+        <div id="options-container" class="options-container"></div>
+      </div>
+      <div id="quiz-results-container" class="hidden">
+        <p id="quiz-results" class="quiz-results"></p>
+        <button id="new-game-btn" class="hidden">New Game</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
 </body>
+
 </html>
