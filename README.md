@@ -1,40 +1,62 @@
-
 # Trivia Game
 
 ## Table of Contents
-
-- [HTML](#html)
-- [JavaScript](#javascript)
-- [CSS](#css)
-
 - [Description](#description)
 - [Usage](#usage)
+- [Installation](#installation)
 - [Credits](#credits)
+- [Links](#links)
 - [License](#license)
-
-## HTML
-
-This project includes an HTML file that represents the web page.
-
-## JavaScript
-
-This project includes JavaScript files that provide the interactive functionality of the web page.
-
-## CSS
-
-This project includes a CSS file that defines the styles and layout of the web page.
 
 ## Description
 
-The "Trivia Game" project is a web development endeavor aimed at achieving a desired outcome by combining the power of various web development technologies in a blend to achieve the desired outcome. The project utilizes HTML to create user-friendly web pages. By building a seamless and engaging user experience, the project aims to provide an intuitive web browsing experience. The combination of HTML, effective utilization of HTML for content structure, CSS for styling and layout, and JavaScript for interactivity and behavior, with careful craftsmanship and a focus on user experience, the project strives to create a seamless and engaging web application. With a responsive and adaptive design, the project ensures the website looks great on various devices and screen sizes. By following industry best practices and staying up-to-date with modern web development techniques, the project aims to deliver high-quality web solution that meets the needs of its target audience. In summary, the "Trivia Game" project represents the application of web development skills to create a web application that is user-friendly, visually appealing, and user-friendly.
+The "Trivia Game" project is a web development project that aims to achieve an outcome by combining the power of various web development technologies to achieve the desired outcome. The project utilizes web development technologies such as HTML, CSS, and JavaScript to create a dynamic and interactive web page. By leveraging the power of these technologies, the project aims to deliver a visually appealing and user-friendly experience. Through skillful use of HTML for content structure, CSS for styling and layout, and JavaScript for interactivity and behavior, the project strives to create a seamless and engaging web application. With meticulous attention to detail and a focus on user experience, the project seeks to provide an intuitive and enjoyable web browsing experience. The combination of HTML, CSS, and JavaScript allows for the creation of a responsive and adaptive design, ensuring the website looks great on various devices and screen sizes. By following industry best practices and staying up-to-date with modern web development techniques, the project aims to deliver a high-quality web solution that meets the needs of its target audience. Overall, the "Trivia Game" project represents the application of web development skills and technologies to create a compelling and functional web experience. 
+
 
 ## Usage
 
-The "Trivia Game" project offers a practical application of web development skills, showcasing the synergy of HTML, CSS, and JavaScript in building a dynamic and interactive web experience. The project incorporates html, javascript, javascript, css to enhance the user interface and deliver a visually appealing design. Users can explore the website and enjoying the visual aesthetics, experiencing an immersive web experience. The project encourages user engagement and interactivity through its intuitive user interface and intuitive navigation. With a responsive design and compatibility across a wide range of viewing environments, the web page adapts seamlessly to different devices and browsers, ensuring a consistent experience for all users. By harness the power of web development technologies, the "Trivia Game" project provides a powerful and interactive web experience that is visually appealing and user-friendly. 
+The "Trivia Game" project offers a practical application of web development skills and techniques. It provides a combination of HTML, CSS, and JavaScript files to create a fully functional web page. The project's main focus is to The "Trivia Game" project is a web development project that aims to achieve an outcome by combining the power of various web development technologies to achieve the desired outcome. The project utilizes web development technologies such as HTML, CSS, and JavaScript to create a dynamic and interactive web page. By leveraging the power of these technologies, the project aims to deliver a visually appealing and user-friendly experience. Through skillful use of HTML for content structure, CSS for styling and layout, and JavaScript for interactivity and behavior, the project strives to create a seamless and engaging web application. With meticulous attention to detail and a focus on user experience, the project seeks to provide an intuitive and enjoyable web browsing experience. The combination of HTML, CSS, and JavaScript allows for the creation of a responsive and adaptive design, ensuring the website looks great on various devices and screen sizes. By following industry best practices and staying up-to-date with modern web development techniques, the project aims to deliver a high-quality web solution that meets the needs of its target audience. Overall, the "Trivia Game" project represents the application of web development skills and technologies to create a compelling and functional web experience. . The following table provides an overview of the files included in the project:
+
+| File | Description |
+| --- | --- |
+| HTML | This project includes an HTML file that represents the web page. |
+| CSS | This project includes a CSS file that defines the styles and layout of the web page. |
+| JavaScript | This project includes JavaScript files that provide the interactive functionality of the web page. |
+
+
+## Installation
+
+**Step 1:**
+
+This project includes an HTML file that represents the web page. Hypertext Markup Language, the standard language for creating web pages
+
+**Step 2:**
+
+This project includes a CSS file that defines the styles and layout of the web page. Cascading Style Sheets, used to define the styles and layout of the web page
+
+**Step 3:**
+
+This project includes JavaScript files that provide the interactive functionality of the web page. a high-level programming language used for web development
+
+**Step 4:**
+
+To use some common JavaScript libraries, you can install the following packages using npm:
+- Install bulma: `npm install bulma`
+- Install bootstrap: `npm install bootstrap`
+- Install jquery: `npm install jquery`
+- Install axios: `npm install axios`
+- Install lodash: `npm install lodash`
+- Install moment: `npm install moment`
+- Install jsonwebtoken: `npm install jsonwebtoken`
 
 ## Credits
 
-This project was developed by Marcies Smith.
+- This project was developed by Marcies Smith.
+
+## Links
+
+- [GitHub Repository](https://github.com/Seicram/Trivia-Game)
+- [Deployed Application](https://seicram.github.io/Trivia-Game/)
 
 ## License
 
